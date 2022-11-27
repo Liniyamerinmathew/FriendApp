@@ -35,5 +35,3 @@ const myRoute:Routes=[
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-Footer
-© 2022 GitHub, Inc.
